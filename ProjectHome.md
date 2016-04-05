@@ -1,0 +1,1 @@
+Application RServer controls an active power point presentation with the help of a mobile client application.
